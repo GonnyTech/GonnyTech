@@ -18,7 +18,15 @@ Here are the technologies and tools I study and work with:
 * **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian, Arch and derivatives, Fedora) 
 * **3D Modeling:** Autodesk Fusion 360, Autodesk Inventor (with practical experience in a 3D Modeling and Printing PCTO Course)
 * **Video Editing:** DaVinci Resolve, KDEnlive
-* **Productivity:** Microsoft Office, LibreOffice 
+* **Productivity:** Microsoft Office, LibreOffice
+
+### 🎓 Education & Other Skills
+
+* **ITS Education:** Attending the first year at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
+* **University Education:** I attended (unsuccessfully) the first year of Computer Science at the [University of Milano-Bicocca](https://www.unimib.it).
+* **English Language:** **B2** Level (certified by UniMiB), **B1** Level (Certified by Cambridge University Assessments).
+* **Discipline:** Brown Belt Diploma in Judo.
+* **Hobby:** Self-taught in musical skills.
   
 #### 🤝 Transversal Experiences & Contributions
 
