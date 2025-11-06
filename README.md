@@ -38,7 +38,7 @@ Here are the technologies and tools I study and work with:
 
 ---
   
-#### 🤝 Transversal Experiences & Contributions
+### 🤝 Transversal Experiences & Contributions
 
 These experiences demonstrate my **Soft Skills**—crucial for collaboration and professionalism:
 
