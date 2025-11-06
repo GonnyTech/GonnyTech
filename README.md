@@ -1,6 +1,6 @@
 ## Hi, I'm Samuele Gonnella 👋
 
-### 🎯 Full Stack Developer Student & Tech Enthusiast
+### 🎯 20 year-old Full Stack Developer Student & Tech Enthusiast
 
 I am currently enrolled in the parauniversity course for **Full Stack Developer** at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), a path that combines my passion for programming with practical experience. I have a science-based academic background, having attended the first year of Computer Science at the University of Milano-Bicocca after graduating from the "Elio Vittorini" Scientific High School.
 
@@ -11,25 +11,27 @@ Here are the technologies and tools I study and work with:
 #### Languages & Development
 * **Python** (Self-taught and through PCTO Course) 
 * **Java**
-* **GitHub** and **HTML** basics
-* **Hardware:** Raspberry Pi
+* **GitHub** and **HTML** basics (Self-taught)
+* **Hardware:** Raspberry Pi, Arduino (Self-taught)
   
 #### Systems & Tools
-* **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian, Arch, Fedora) 
+* **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian, Arch and derivatives, Fedora) 
 * **3D Modeling:** Autodesk Fusion 360, Autodesk Inventor (with practical experience in a 3D Modeling and Printing PCTO Course)
-* **Video Editing:** DaVinci Resolve 
-* **Productivity:** Microsoft Office 
+* **Video Editing:** DaVinci Resolve, KDEnlive
+* **Productivity:** Microsoft Office, LibreOffice 
+  
+#### 🤝 Transversal Experiences & Contributions
 
-#### 💡 Experience and Contributions
+These experiences demonstrate my **Soft Skills**—crucial for collaboration and professionalism:
 
-In addition to my education, I keep active with practical projects:
-* **ITS Education:** Attending the first year at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
-* **University Education:** I completed the first year of Computer Science at the [University of Milano-Bicocca](https://www.unimib.it).
-* **Volunteering:** Experience as a summer camp animator, volunteer assisting children with disabilities (at the Social Cooperative [Il Balzo](https://www.ilbalzo.com/)), and **First Aid Rescuer in training** at the [P.A. Croce Verde Baggio](https://www.croceverdebaggio.it/).
+* **Customer Care & Problem Solving:** Working as a **waiter/barman** ("Nuovo Caffè Ravelli," "Ristorante Cascina Guzzafame") taught me how to **cope with stress** in busy workdays, prioritize tasks, and practice **active listening** and empathy with clients.
+* **Civic Engagement & Teamwork:**
+    * **First Aid Rescuer in Training** at the ["Croce Verde Baggio"](https://www.croceverdebaggio.it/)
+    * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
+    * Summer Camp Animator.
 
 #### 🌟 Other Skills
-
-* **English Language:** B2 Level (certified by the University of Milano-Bicocca).
+* **English Language:** B2 Level (certified by the University of Milano-Bicocca), B1 Level (Certified by Cambridge University Assessments).
 * **Discipline:** Brown Belt Diploma in Judo.
 * **Music:** Self-taught in musical skills.
 
