@@ -1,37 +1,37 @@
-# Ciao, sono Samuele Gonnella 👋
+# Hi, I'm Samuele Gonnella 👋
 
-### 🎯 Studente Full Stack Developer & Appassionato di Tech
+### 🎯 Full Stack Developer Student & Tech Enthusiast
 
-Attualmente sono iscritto al corso parauniversitario di **Full Stack Developer** presso l'[ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), un percorso che unisce la mia passione per la programmazione con l'esperienza pratica. Ho una formazione accademica basata sulla scienza, avendo frequentato il primo anno di Informatica presso l'Università degli Studi di Milano-Bicocca dopo il Diploma al Liceo Scientifico "Elio Vittorini".
+I am currently enrolled in the pre-university course for **Full Stack Developer** at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), a path that combines my passion for programming with practical experience. I have a science-based academic background, having attended the first year of Computer Science at the University of Milano-Bicocca after graduating from the "Elio Vittorini" Scientific High School.
 
-### 🛠️ Competenze Tecniche
+### 🛠️ Technical Skills
 
-Ecco le tecnologie e gli strumenti con cui lavoro e studio:
+Here are the technologies and tools I study and work with:
 
-#### Linguaggi & Sviluppo
-* **Python** (Autodidatta e tramite Corso PCTO) 
-* **Java** * **GitHub** e basi di **HTML** * **Hardware:** Raspberry Pi
+#### Languages & Development
+* **Python** (Self-taught and through PCTO Course) 
+* **Java** * **GitHub** and **HTML** basics * **Hardware:** Raspberry Pi
   
-#### Sistemi & Strumenti
-* **Sistemi Operativi:** Linux (Ubuntu-Debian, Arch, Fedora) 
-* **Modellazione 3D:** Fusion 360 (con esperienza pratica in un Corso PCTO di Modellazione e stampa 3D)
+#### Systems & Tools
+* **Operating Systems:** Linux (Ubuntu-Debian, Arch, Fedora) 
+* **3D Modeling:** Fusion 360 (with practical experience in a 3D Modeling and Printing PCTO Course)
 * **Video Editing:** DaVinci Resolve 
-* **Produttività:** Microsoft Office 
+* **Productivity:** Microsoft Office 
 
-### 💡 Esperienze e Contributi
+### 💡 Experience and Contributions
 
-Oltre alla formazione, mi tengo attivo con progetti pratici:
-* **Formazione ITS:** Frequentazione del primo anno presso [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
-* **Formazione Universitaria:** Ho completato il primo anno di Informatica presso l'[Università degli Studi Di Milano-Bicocca](https://www.unimib.it).
-* **Volontariato:** Esperienze come Animatore oratorio estivo, Volontario assistenza bambini con disabilità (presso la Cooperativa Sociale [Il Balzo](https://www.ilbalzo.com/)) e **Soccorritore in formazione** presso la [P.A. Croce Verde Baggio](https://www.croceverdebaggio.it/).
+In addition to my education, I keep active with practical projects:
+* **ITS Education:** Attending the first year at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
+* **University Education:** I completed the first year of Computer Science at the [University of Milano-Bicocca](https://www.unimib.it).
+* **Volunteering:** Experience as a summer camp animator, volunteer assisting children with disabilities (at the Social Cooperative [Il Balzo](https://www.ilbalzo.com/)), and **First Aid Rescuer in training** at the [P.A. Croce Verde Baggio](https://www.croceverdebaggio.it/).
 
-### 🌟 Altre Competenze
+### 🌟 Other Skills
 
-* **Lingua Inglese:** Livello B2 (certificato dall'Università degli studi di Milano-Bicocca).
-* **Disciplina:** Diploma di Cintura Marrone in Judo.
-* **Musica:** Autodidatta in competenze musicali.
+* **English Language:** B2 Level (certified by the University of Milano-Bicocca).
+* **Discipline:** Brown Belt Diploma in Judo.
+* **Music:** Self-taught in musical skills.
 
-### 📧 Contatti
-Se hai un progetto interessante, una proposta di collaborazione o vuoi semplicemente scambiare due chiacchiere su Python, Java o Linux, non esitare a contattarmi:
+### 📧 Contact
+If you have an interesting project, a collaboration proposal, or just want to chat about Python, Java, or Linux, feel free to contact me:
 
 **Email:** samuelegonnella@yahoo.com
