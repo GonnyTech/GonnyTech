@@ -38,10 +38,6 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
     * Summer Camp Animator.
 
-#### 🌟 Other Skills
-* **English Language:** B2 Level (certified by the University of Milano-Bicocca), B1 Level (Certified by Cambridge University Assessments).
-* **Discipline:** Brown Belt Diploma in Judo.
-* **Music:** Self-taught in musical skills.
 
 ### 📧 Contact
 If you have an interesting project, a collaboration proposal, or just want to chat about Python, Java, or Linux, feel free to contact me:
