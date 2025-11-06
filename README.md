@@ -11,13 +11,15 @@ Here are the technologies and tools I study and work with:
 #### Languages & Development
 * **Python** (Self-taught and through PCTO Course) 
 * **Java**
-* **GitHub** and **HTML** basics (Self-taught)
+* **HTML** basics (Self-taught)
+* **GitHub** 
 * **Hardware:** Raspberry Pi, Arduino (Self-taught)
   
 #### Systems & Tools
-* **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian and derivatives, Arch and derivatives, Fedora, self-taught basics of **Kali-Linux** and cybersecurity) 
+* **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian and derivatives, Arch and derivatives, Fedora,)
+* **Linux Security:** Basics of **Kali Linux** (Self-taught) 🛡️
 * **3D Modeling:** Autodesk Fusion 360, Autodesk Inventor (with practical experience in a 3D Modeling and Printing PCTO Course)
-* **Video Editing:** DaVinci Resolve, KDEnlive
+* **Media:** DaVinci Resolve, KDEnlive (Video Editing), Audacity (Audio Editing), GIMP and Lightroom Mobile (Photo Editing)
 * **Productivity:** Microsoft Office, LibreOffice
 
 ### 🎓 Education & Other Skills
