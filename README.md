@@ -2,7 +2,7 @@
 
 ### 🎯 Studente Full Stack Developer & Appassionato di Tech
 
-Attualmente sono iscritto al corso parauniversitario di **Full Stack Developer** presso l' [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), un percorso che unisce la mia passione per la programmazione con l'esperienza pratica. Ho una formazione accademica basata sulla scienza, avendo frequentato il primo anno di Informatica presso l'Università degli Studi di Milano-Bicocca dopo il Diploma al Liceo Scientifico.
+Attualmente sono iscritto al corso parauniversitario di **Full Stack Developer** presso l'[ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), un percorso che unisce la mia passione per la programmazione con l'esperienza pratica. Ho una formazione accademica basata sulla scienza, avendo frequentato il primo anno di Informatica presso l'Università degli Studi di Milano-Bicocca dopo il Diploma al Liceo Scientifico "Elio Vittorini".
 
 ### 🛠️ Competenze Tecniche
 
@@ -22,7 +22,7 @@ Ecco le tecnologie e gli strumenti con cui lavoro e studio:
 
 Oltre alla formazione, mi tengo attivo con progetti pratici:
 * **Formazione ITS:** Frequentazione del primo anno presso [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
-* **Formazione Universitaria:** Ho completato il primo anno di Informatica presso l'Università degli Studi Di Milano-Bicocca.
+* **Formazione Universitaria:** Ho completato il primo anno di Informatica presso l'[Università degli Studi Di Milano-Bicocca](https://www.unimib.it).
 * **Volontariato:** Esperienze come Animatore oratorio estivo, Volontario assistenza bambini con disabilità (presso la Cooperativa Sociale [Il Balzo](https://www.ilbalzo.com/)) e **Soccorritore in formazione** presso la [P.A. Croce Verde Baggio](https://www.croceverdebaggio.it/).
 
 ### 🌟 Altre Competenze
