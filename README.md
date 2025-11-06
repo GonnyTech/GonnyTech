@@ -10,7 +10,8 @@ Here are the technologies and tools I study and work with:
 
 #### Languages & Development
 * **Python** (Self-taught and through PCTO Course) 
-* **Java** * **GitHub** and **HTML** basics * **Hardware:** Raspberry Pi
+* **Java** * **GitHub** and **HTML** basics
+* **Hardware:** Raspberry Pi
   
 #### Systems & Tools
 * **Operating Systems:** Linux (Ubuntu-Debian, Arch, Fedora) 
