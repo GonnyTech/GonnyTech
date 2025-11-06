@@ -2,7 +2,7 @@
 
 ### 🎯 Studente Full Stack Developer & Appassionato di Tech
 
-Attualmente sono iscritto al corso parauniversitario di **Full Stack Developer** presso l'[ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), un percorso che unisce la mia passione per la programmazione con l'esperienza pratica. Ho una formazione accademica basata sulla scienza, avendo frequentato il primo anno di Informatica presso l'Università degli Studi di Milano-Bicocca dopo il Diploma al Liceo Scientifico.
+Attualmente sono iscritto al corso parauniversitario di **Full Stack Developer** presso l' [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), un percorso che unisce la mia passione per la programmazione con l'esperienza pratica. Ho una formazione accademica basata sulla scienza, avendo frequentato il primo anno di Informatica presso l'Università degli Studi di Milano-Bicocca dopo il Diploma al Liceo Scientifico.
 
 ### 🛠️ Competenze Tecniche
 
