@@ -15,7 +15,7 @@ Here are the technologies and tools I study and work with:
 * **Hardware:** Raspberry Pi
   
 #### Systems & Tools
-* **Operating Systems:** Linux (Ubuntu-Debian, Arch, Fedora) 
+* **Operating Systems:** Microsoft Windows, Linux (Ubuntu-Debian, Arch, Fedora) 
 * **3D Modeling:** Fusion 360 (with practical experience in a 3D Modeling and Printing PCTO Course)
 * **Video Editing:** DaVinci Resolve 
 * **Productivity:** Microsoft Office 
