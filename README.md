@@ -2,7 +2,11 @@
 
 ### 🎯 20 year-old Full Stack Developer Student & Tech Enthusiast
 
+**💻 Featured Project:** Currently working on a public fork of the Waterfox browser to create a customized browsing experience.
+
 I am currently enrolled in the parauniversity course for **Full Stack Developer** at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), a path that combines my passion for programming with practical experience. I have a science-based academic background, having attended the first year of Computer Science at the University of Milano-Bicocca after graduating from the "Elio Vittorini" Scientific High School.
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -22,13 +26,17 @@ Here are the technologies and tools I study and work with:
 * **Media:** DaVinci Resolve, KDEnlive (Video Editing), Audacity (Audio Editing), GIMP and Lightroom Mobile (Photo Editing)
 * **Productivity:** Microsoft Office, LibreOffice
 
+---
+
 ### 🎓 Education & Other Skills
 
 * **ITS Education:** Attending the first year at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/).
 * **University Education:** I attended (unsuccessfully) the first year of Computer Science at the [University of Milano-Bicocca](https://www.unimib.it).
 * **English Language:** **B2** Level (certified by UniMiB), **B1** Level (Certified by Cambridge University Assessments).
 * **Discipline:** Brown Belt Diploma in Judo.
-* **Hobby:** Self-taught in musical skills.
+* **Hobbies:** Self-taught in musical skills, love cars and working on them.
+
+---
   
 #### 🤝 Transversal Experiences & Contributions
 
@@ -40,6 +48,7 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
     * Summer Camp Animator.
 
+---
 
 ### 📧 Contact
 If you have an interesting project, a collaboration proposal, or just want to chat about Python, Java, or Linux, feel free to contact me:
