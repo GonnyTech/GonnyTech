@@ -2,7 +2,12 @@
 
 ### 🎯 20 year-old Full Stack Developer Student & Tech Enthusiast
 
-**💻 Featured Project:** Currently working on a public fork of the Waterfox browser to create a customized browsing experience.
+### 💻 Projects and Contributions
+
+* **Waterfox Custom Fork (Ongoing):** Currently working on a public fork of the Waterfox browser to create a customized browsing experience. * **ITS Exercise - Technical Writing Snake:** ITS Course Exercise for Technical Writing Practice - Implementation of the **Snake** game ([Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-snake.git)).
+* **ITS Exercise - Technical Writing Trello MVP:** ITS Course Exercise for Technical Writing Practice - Implementation of a **Trello**-inspired **MVP** (Minimum Viable Product) ([Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-mvp-trello.git)). 
+* **Upcoming Project - Croce Verde Baggio Website:** Planning and design for a new version of the website for the volunteer association Croce Verde Baggio.
+
 
 I am currently enrolled in the parauniversity course for **Full Stack Developer** at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), a path that combines my passion for programming with practical experience. I have a science-based academic background, having attended the first year of Computer Science at the University of Milano-Bicocca after graduating from the "Elio Vittorini" Scientific High School.
 
