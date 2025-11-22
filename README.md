@@ -4,7 +4,8 @@
 
 ### 💻 Projects and Contributions
 
-* **Waterfox Custom Fork (Ongoing):** Currently working on a public fork of the Waterfox browser to create a customized browsing experience. * **ITS Exercise - Technical Writing Snake:** ITS Course Exercise for Technical Writing Practice - Implementation of the **Snake** game ([Snake Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-snake.git)).
+* **Waterfox Custom Fork (Ongoing):** Currently working on a public fork of the Waterfox browser to create a customized browsing experience. 
+* **ITS Exercise - Technical Writing Snake:** ITS Course Exercise for Technical Writing Practice - Implementation of the **Snake** game ([Snake Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-snake.git)).
 * **ITS Exercise - Technical Writing Trello MVP:** ITS Course Exercise for Technical Writing Practice - Implementation of a **Trello**-inspired **MVP** (Minimum Viable Product) ([MVP Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-mvp-trello.git)). 
 * **Upcoming Project - Croce Verde Baggio Website:** Planning and design for a new version of the website for the volunteer association ["Croce Verde Baggio"](https://www.croceverdebaggio.it/).
 
