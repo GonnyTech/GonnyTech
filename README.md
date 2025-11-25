@@ -30,7 +30,7 @@ Here are the technologies and tools I study and work with:
 * **Linux Security:** Basics of **Kali Linux** (Self-taught) 🛡️
 * **3D Modeling:** Autodesk Fusion 360, Autodesk Inventor (with practical experience in a 3D Modeling and Printing PCTO Course)
 * **Media:** DaVinci Resolve, KDEnlive (Video Editing), Audacity (Audio Editing), GIMP and Lightroom Mobile (Photo Editing)
-* **Productivity:** Microsoft Office, LibreOffice
+* **Productivity:** Microsoft Office, LibreOffice, kDrive
 
 ---
 
