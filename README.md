@@ -48,7 +48,7 @@ Here are the technologies and tools I study and work with:
 
 These experiences demonstrate my **Soft Skills**—crucial for collaboration and professionalism:
 
-* **Customer Care & Problem Solving:** Working as a **waiter/barman** ("Nuovo Caffè Ravelli," "Ristorante Cascina Guzzafame") taught me how to **cope with stress** in busy workdays, prioritize tasks, and practice **active listening** and empathy with clients.
+* **Customer Care & Problem Solving:** Working as a **waiter/barman** ("Ristorante Cascina Guzzafame") taught me how to **cope with stress** in busy workdays, prioritize tasks, and practice **active listening** and empathy with clients.
 * **Civic Engagement & Teamwork:**
     * **First Aid Rescuer in Training** at the ["Croce Verde Baggio"](https://www.croceverdebaggio.it/)
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
