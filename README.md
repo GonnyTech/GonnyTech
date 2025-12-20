@@ -50,7 +50,7 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
 
 * **Customer Care & Problem Solving:** Working as a **waiter/barman** ("Ristorante Cascina Guzzafame") taught me how to **cope with stress** in busy workdays, prioritize tasks, and practice **active listening** and empathy with clients.
 * **Civic Engagement & Teamwork:**
-    * **First Aid Rescuer in Training** at the ["Croce Verde Baggio"](https://www.croceverdebaggio.it/)
+    * **First Aid Rescuer in Training** at the [P.A. Green Cross "Baggio" ](https://www.croceverdebaggio.it/), a local First Responder Association
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
     * Summer Camp Animator.
 
