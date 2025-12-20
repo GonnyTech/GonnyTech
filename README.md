@@ -59,5 +59,5 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
 ### 📧 Contact
 If you have an interesting project, a collaboration proposal, or just want to chat about Python, Java, or Linux, feel free to contact me:
 
-**Email:** samuelegonnella@yahoo.com<br>
+**Email:** samuelegonnella@etik.com<br>
 **Work Email:** samuele.gonnella@itstechtalentfactory.it
