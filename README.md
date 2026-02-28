@@ -1,6 +1,8 @@
+# Samuele Gonnella
+
 ## Hi, I'm Samuele Gonnella 👋
 
-### 🎯 20 year-old Full Stack Developer Student & Tech Enthusiast
+### 🎯 20 year-old Full Stack Developer Student & Tech Enthusiast with strong inclination for IT in healthcare and IoMT (Internet of Medical Things)
 
 ### 💻 Projects and Contributions
 
@@ -8,8 +10,7 @@
 * **ITS Exercise - Technical Writing Snake:** ITS Course Exercise for Technical Writing Practice - Implementation of the **Snake** game ([Snake Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-snake.git)).
 * **ITS Exercise - Technical Writing Trello MVP:** ITS Course Exercise for Technical Writing Practice - Implementation of a **Trello**-inspired **MVP** (Minimum Viable Product) ([MVP Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-mvp-trello.git)). 
 * **Cleaner** - a tool to Unfuck Windows 10 and 11 by removing bloatware and cleaning unused files ([Cleaner](https://github.com/GonnyTech/Cleaner.git)).
-* **Upcoming Project - Croce Verde Baggio Website:** Planning and design for a new version of the website for the volunteer association ["Croce Verde Baggio"](https://www.croceverdebaggio.it/).
-
+* **Upcoming Project - Croce Verde Baggio Website:** Working on a new version of the website for the volunteer association ["Croce Verde Baggio"](https://www.croceverdebaggio.it/), with custom CSS styling and PHP backend.
 
 I am currently enrolled in the parauniversity course for **Full Stack Developer** at [ITS "Tech Talent Factory"](https://www.itstechtalentfactory.it/), a path that combines my passion for programming with practical experience. I have a science-based academic background, having attended the first year of Computer Science at the University of Milano-Bicocca after graduating from the "Elio Vittorini" Scientific High School.
 
@@ -23,6 +24,7 @@ Here are the technologies and tools I study and work with:
 * **Python** (Self-taught and through PCTO Course) 
 * **Java**
 * **HTML** basics (Self-taught)
+* **PHP** (Still learning)
 * **GitHub** 
 * **Hardware:** Raspberry Pi, Arduino (Self-taught)
   
@@ -31,7 +33,7 @@ Here are the technologies and tools I study and work with:
 * **Linux Security:** Basics of **Kali Linux** (Self-taught) 🛡️
 * **3D Modeling:** Autodesk Fusion 360, Autodesk Inventor (with practical experience in a 3D Modeling and Printing PCTO Course)
 * **Media:** DaVinci Resolve, KDEnlive (Video Editing), Audacity (Audio Editing), GIMP and Lightroom Mobile (Photo Editing)
-* **Productivity:** Microsoft Office, LibreOffice, kDrive
+* **Productivity:** Microsoft Office, LibreOffice, kSuite
 
 ---
 
@@ -53,7 +55,8 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
 * **Civic Engagement & Teamwork:**
     * **Trainee Emergency Medical Technician** at the [P.A. Croce Verde Baggio ODV](https://www.croceverdebaggio.it/), a local EMS Association
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
-    * Summer Camp Animator.
+    * Summer Camp Animator
+    * Love for cars and Special Vehicles. Love for mechatronics and for working to improve things
 
 ---
 
