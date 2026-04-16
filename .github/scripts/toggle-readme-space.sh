@@ -15,14 +15,10 @@ from pathlib import Path
 path = Path(os.environ["TARGET_FILE"])
 text = path.read_text(encoding="utf-8")
 
-if not text:
-    path.write_text(" ", encoding="utf-8")
-    raise SystemExit(0)
+trimmed = text.rstrip(" ")
 
-if text.endswith(" "):
-    text = text[:-1]
+if text != trimmed:
+    path.write_text(trimmed, encoding="utf-8")
 else:
-    text = text + " "
-
-path.write_text(text, encoding="utf-8")
+    path.write_text(text + " ", encoding="utf-8")
 PY
