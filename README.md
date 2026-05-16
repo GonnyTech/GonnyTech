@@ -6,7 +6,7 @@
 
 ### 💻 Projects and Contributions
 
-* Croce Verde Baggio Website: (Ongoing)** Currently working on a new version of the website for the volunteer association ["Croce Verde Baggio"](https://www.croceverdebaggio.it/), with custom CSS styling and PHP backend.
+* Croce Verde Baggio Website** - New version of the website for the volunteer association ["Croce Verde Baggio"](https://www.croceverdebaggio.it/), with custom CSS styling and PHP backend.
 * **Waterfox Custom Fork (Paused):** working on a public fork of the Waterfox browser to create a customized browsing experience. 
 * **ITS Exercise - Technical Writing Snake:** ITS Course Exercise for Technical Writing Practice - Implementation of the **Snake** game ([Snake Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-snake.git)).
 * **ITS Exercise - Technical Writing Trello MVP:** ITS Course Exercise for Technical Writing Practice - Implementation of a **Trello**-inspired **MVP** (Minimum Viable Product) ([MVP Repository](https://github.com/TTF-FULL-STACK-2025/technical-writing-mvp-trello.git)). 
