@@ -53,7 +53,7 @@ These experiences demonstrate my **Soft Skills**—crucial for collaboration and
 
 * **Customer Care & Problem Solving:** Working as a **waiter/barman** ("Ristorante Cascina Guzzafame") taught me how to **cope with stress** in busy workdays, prioritize tasks, and practice **active listening** and empathy with clients.
 * **Civic Engagement & Teamwork:**
-    * **Trainee Emergency Medical Technician** at the [P.A. Croce Verde Baggio ODV](https://www.croceverdebaggio.it/), a local EMS Association
+    * **Emergency Medical Technician** at the [P.A. Croce Verde Baggio ODV](https://www.croceverdebaggio.it/), a local EMS Association
     * Volunteer assisting children with disabilities (Social Cooperative ["Il Balzo"](https://www.ilbalzo.com/))
     * Summer Camp Animator
     * Love for cars and Special Vehicles. Love for mechatronics and for working to improve things
