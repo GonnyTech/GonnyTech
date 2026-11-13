@@ -66,3 +66,4 @@ If you have an interesting project, a collaboration proposal, or just want to ch
 **Email:** samuelegonnella@etik.com<br>
 **Work Email:** samuele.gonnella@itstechtalentfactory.it
  
+ 
